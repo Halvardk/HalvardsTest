@@ -12,3 +12,5 @@
 1. Nummerert liste
 2. CTRL-SHIFT-O
 
+> Quotes
+> CTRL-Q
